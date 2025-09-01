@@ -5,3 +5,5 @@ doms
 TJ diay imong ngalan
 
 After pull ni bai
+
+After pull part 2
