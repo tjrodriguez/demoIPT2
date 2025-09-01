@@ -1,11 +1,13 @@
-mayjoy
 ohyeah
 
-akoa ni bai
-wowsabaw 
-uiulul
+doms
 
+TJ diay imong ngalan
 
+<<<<<<< HEAD
 trixie
 
 push ni 
+=======
+After pull ni bai
+>>>>>>> sanga
